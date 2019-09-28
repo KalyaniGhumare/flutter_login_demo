@@ -17,7 +17,7 @@ class LoginScreen extends StatelessWidget
             /*
             * Text Welcome
             * */
-            Container(
+            Container (
               width: MediaQuery.of(context).size.width,
               margin: EdgeInsets.only(top: 50.0),
               child: Text(
